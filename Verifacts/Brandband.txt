@@ -1,0 +1,11 @@
+                   Pune 
+=======================================
+Public Id network :  
+	IP:- 219.91.153.241
+	Gt. way:- 219.91.153.1
+	S.M:- 255.255.255.0
+Network name: You Brodband
+
+Utilization speed: 100Mbps
+
+Cost of internet : it includes in rent
